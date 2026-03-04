@@ -243,7 +243,7 @@ It will take 10-15 minutes to complete
 
 
 15) Now we will update the configuration of EKS 
-aws eks update-kubeconfig --name hemanth_cluster --region us-east-1
+aws eks update-kubeconfig --name EKS_CLOUD --region us-east-1
 # ensure that you take care of the region you are working in 
 
 
